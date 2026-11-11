@@ -52,3 +52,6 @@ This meant that our ASIC was finally done, and below are some views of the GDSII
 <img width="308" height="310" alt="Tiny Tapeout View 1" src="https://github.com/user-attachments/assets/619fa427-e260-4de8-9a87-f62aee23cdbc" />
 <img width="541" height="529" alt="Tiny Tapeout View 2" src="https://github.com/user-attachments/assets/a4030e4d-9797-4853-8903-0acfdedbd6ab" />
 
+<img width="306" height="86" alt="image" src="https://github.com/user-attachments/assets/e3f3466e-28d5-410d-a728-6045777159aa" />
+
+
